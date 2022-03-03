@@ -1,0 +1,6 @@
+git init= initialize project
+git status= the status of the project
+git add .= adding every file from the project
+git commit -m "message/description"= adding description to the upload 
+git log --oneline= check history of the projects 
+
